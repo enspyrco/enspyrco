@@ -95,16 +95,8 @@ Inside Google Drive Folder "*Section*: Sections Planning (CL)", create:
             - Create an "input task"[3] in asana
             - When all conversations are resolved, Create Hifi wireframe!
 
-        4. Inside "User Flow Pieces" folder, create Hifi wireframe
+        4. Inside "x. *Use Case* < *Section* (CL)" folder, create a User Flow Diagram
             - Create Hifi wireframe using Adobe XD
-            - Inside "user flow folder"[2] , create a google drawing to get input on wireframe
-                - Add title: "Hifi wireframe < User Flow Pieces < x. *Use Case* <  *Section* (CL)"
-            - Export any screens created in XD and upload them to google drawing doc
-            - Add any helpful comments, e.g reasoning for design decisions, specific questions about design
-            - Create an "input task"[3] in asana
-            - When all conversations are resolved, Create User Flow Diagram!
-
-        5. Inside "x. *Use Case* < *Section* (CL)" folder, create a User Flow Diagram
             - Create a google presentation file
               - Add title: "User Flow Presentation < x. *Use Case* < *Section* (CL)"
             - Export any screens created in XD and add them to a slide in the google presentation
