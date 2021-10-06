@@ -1,0 +1,22 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "redirects": [ 
+      {
+        "source": "/gt",
+        "destination": "https://gather.town/app/H1PxgqNFW1DNvKah/Adventures%20In%20Gather%20Town",
+        "type": 301
+      },
+      {
+        "source": "/ad",
+        "destination": "https://adventures-in.notion.site/Adventures-2bfd1f73cd674836b5ba5ba4931ad372",
+        "type": 301
+      }
+    ]
+  }
+}
