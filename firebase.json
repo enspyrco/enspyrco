@@ -13,8 +13,23 @@
         "type": 301
       },
       {
-        "source": "/ad",
+        "source": "/gtyt",
+        "destination": "https://www.youtube.com/watch?v=89at5EvCEvk",
+        "type": 301
+      },
+      {
+        "source": "/adv",
         "destination": "https://adventures-in.notion.site/Adventures-2bfd1f73cd674836b5ba5ba4931ad372",
+        "type": 301
+      },
+      {
+        "source": "/aicoc",
+        "destination": "https://github.com/adventures-in/adventures_in/blob/master/Code-Of-Conduct.md",
+        "type": 301
+      },
+      {
+        "source": "/aical",
+        "destination": "https://calendar.google.com/calendar?cid=cDBucjNtMTZyaTFkM2swdTl2cmF2ajJjNGtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
         "type": 301
       }
     ]
