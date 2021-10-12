@@ -24,7 +24,7 @@
       },
       {
         "source": "/aicoc",
-        "destination": "https://github.com/adventures-in/adventures_in/blob/master/Code-Of-Conduct.md",
+        "destination": "https://github.com/adventures-in/code_of_conduct",
         "type": 301
       },
       {
